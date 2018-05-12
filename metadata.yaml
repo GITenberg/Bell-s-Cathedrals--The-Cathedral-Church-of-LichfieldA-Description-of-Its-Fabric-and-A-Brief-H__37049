@@ -1,0 +1,27 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-LichfieldA-Description-of-Its-Fabric-and-A-Brief-H__37049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clifton, A. B.
+    gutenberg_agent_id: '38615'
+    url: http://www.gutenberg.org/2009/agents/38615
+description: ''
+gutenberg_issued: '2011-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37049'
+  lccn: 03012869
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lichfield Cathedral'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Cathedral Church of Lichfield
+
+  A Description of Its Fabric and A Brief History of the Espicopal See'
+url: http://www.gutenberg.org/ebooks/37049
